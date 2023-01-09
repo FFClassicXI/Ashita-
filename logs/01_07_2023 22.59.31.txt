@@ -1,0 +1,201 @@
+01/07/2023 22:59:31.628	[D] AshitaCore::Initialize                            Begin
+01/07/2023 22:59:31.628	[D] ConfigurationManager::Initialize                  Begin
+01/07/2023 22:59:31.628	[D] ConfigurationManager::Initialize                  End
+01/07/2023 22:59:31.629	[D] InputManager::Initialize                          Begin
+01/07/2023 22:59:31.629	[D] InputManager::Initialize                          End
+01/07/2023 22:59:31.629	[D] PointerManager::Initialize                        Begin
+01/07/2023 22:59:31.629	[D] PointerManager::Initialize                        End
+01/07/2023 22:59:31.629	[D] DataManager::Initialize                           Begin
+01/07/2023 22:59:31.629	[D] DataManager::Initialize                           End
+01/07/2023 22:59:31.629	[D] ChatManager::Initialize                           Begin
+01/07/2023 22:59:31.629	[D] CommandTaskPool::Initialize                       Begin
+01/07/2023 22:59:31.630	[D] CommandTaskPool::Initialize                       End
+01/07/2023 22:59:31.630	[D] ChatManager::Initialize                           End
+01/07/2023 22:59:31.630	[D] PacketManager::Initialize                         Begin
+01/07/2023 22:59:31.630	[D] PacketManager::Initialize                         End
+01/07/2023 22:59:31.630	[D] PluginManager::Initialize                         Begin
+01/07/2023 22:59:31.630	[D] PluginManager::Initialize                         End
+01/07/2023 22:59:31.630	[D] AshitaCore::Initialize                            End
+01/07/2023 22:59:37.039	[D] Mine_Direct3DCreate8                              Wrapping and returning a new IDirect3D8 interface.
+01/07/2023 22:59:37.310	[D] newIDirect3D::CreateDevice                        Windowed mode enabled; overriding window settings.
+01/07/2023 22:59:37.365	[D] newIDirect3D::CreateDevice                        Direct3D device created and wrapped!
+01/07/2023 22:59:37.365	[D] AshitaCore::GameLoaded                            GameLoaded begin.
+01/07/2023 22:59:37.365	[D] ResourceManager::Release                          Begin
+01/07/2023 22:59:37.365	[D] ResourceManager::Release                          End
+01/07/2023 22:59:37.365	[D] ResourceManager::Initialize                       Begin
+01/07/2023 22:59:37.365	[D] ResourceManager::Release                          Begin
+01/07/2023 22:59:37.365	[D] ResourceManager::Release                          End
+01/07/2023 22:59:37.366	[D] ResourceManager::Initialize                       End
+01/07/2023 22:59:37.366	[D] ResourceManager::Update                           Begin
+01/07/2023 22:59:37.500	[D] ResourceManager::Update                           Parsed resources; returning: 1 - Time: 0:0:0.133
+01/07/2023 22:59:37.500	[D] ResourceManager::Update                           End (Parse returning: 1)
+01/07/2023 22:59:37.500	[D] InputManager::Update                              Begin
+01/07/2023 22:59:37.500	[D] InputManager::Update                              End
+01/07/2023 22:59:37.500	[D] ConfigurationManager::Update                      Begin
+01/07/2023 22:59:37.500	[D] ConfigurationManager::Update                      End
+01/07/2023 22:59:37.500	[D] PointerManager::Initialize                        Begin
+01/07/2023 22:59:37.500	[D] PointerManager::Initialize                        End
+01/07/2023 22:59:37.500	[D] PointerManager::Update                            Begin
+01/07/2023 22:59:37.504	[D] PointerManager::Update                            Valid Pointer Found: abilityinfo (000E3484)
+01/07/2023 22:59:37.504	[D] PointerManager::Update                            Valid Pointer Found: addtochat (00124170)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: autotranslate (001B4150)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: autotranslatethis (0012424F)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: decryptbuffer (000DAE90)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: encryptbuffer (000DCF90)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: entitymap (000037E0)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: hasspell (00222340)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: inputthis (0023B2CF)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: inventory (000E8772)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: keyitems (00096674)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: logfile (00011342)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: menu (001595E2)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: parsecommand (0007F6D0)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: party (001F9D6B)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: petmp (00085F1F)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: pettp (0009B67D)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: player (0014202A)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            Valid Pointer Found: target (00087523)
+01/07/2023 22:59:37.509	[D] PointerManager::Update                            End
+01/07/2023 22:59:37.509	[D] FontManager::Initialize                           Begin
+01/07/2023 22:59:37.509	[D] FontManager::Initialize                           End
+01/07/2023 22:59:37.509	[D] GuiManager::Initialize                            Begin
+01/07/2023 22:59:37.511	[D] GuiManager::Initialize                            End
+01/07/2023 22:59:37.511	[D] GuiManager::Update                                Begin
+01/07/2023 22:59:37.511	[D] GuiManager::Update                                End
+01/07/2023 22:59:37.511	[D] DataManager::Initialize                           Begin
+01/07/2023 22:59:37.511	[D] DataManager::Initialize                           End
+01/07/2023 22:59:37.511	[D] DataManager::Update                               Begin
+01/07/2023 22:59:37.511	[D] Entity::Update                                    Begin
+01/07/2023 22:59:37.511	[D] Entity::Update                                    End
+01/07/2023 22:59:37.511	[D] Inventory::Update                                 Begin
+01/07/2023 22:59:37.511	[D] Inventory::Update                                 End
+01/07/2023 22:59:37.511	[D] Party::Update                                     Begin
+01/07/2023 22:59:37.511	[D] Party::Update                                     End
+01/07/2023 22:59:37.511	[D] Player::Update                                    Begin
+01/07/2023 22:59:37.511	[D] Player::Update                                    End
+01/07/2023 22:59:37.511	[D] Target::Update                                    Begin
+01/07/2023 22:59:37.511	[D] Target::Update                                    End
+01/07/2023 22:59:37.511	[D] DataManager::Update                               End
+01/07/2023 22:59:37.511	[D] ChatManager::Initialize                           Begin
+01/07/2023 22:59:37.511	[D] CommandTaskPool::Release                          Begin
+01/07/2023 22:59:37.511	[D] CommandTaskPool::Release                          End
+01/07/2023 22:59:37.511	[D] CommandTaskPool::Initialize                       Begin
+01/07/2023 22:59:37.513	[D] CommandTaskPool::Initialize                       End
+01/07/2023 22:59:37.513	[D] ChatManager::Initialize                           End
+01/07/2023 22:59:37.513	[D] ChatManager::Update                               Begin
+01/07/2023 22:59:37.513	[D] ChatManager::Update                               Hooked function: AddToChatlog
+01/07/2023 22:59:37.513	[D] ChatManager::Update                               Hooked function: AutoTranslate
+01/07/2023 22:59:37.513	[D] ChatManager::Update                               Hooked function: ParseCommand
+01/07/2023 22:59:37.513	[D] CommandTaskPool::Release                          Begin
+01/07/2023 22:59:37.514	[D] CommandTaskPool::Release                          End
+01/07/2023 22:59:37.514	[D] CommandTaskPool::Initialize                       Begin
+01/07/2023 22:59:37.515	[D] CommandTaskPool::Initialize                       End
+01/07/2023 22:59:37.515	[D] ChatManager::Update                               End
+01/07/2023 22:59:37.515	[D] PacketManager::Initialize                         Begin
+01/07/2023 22:59:37.515	[D] PacketManager::Initialize                         End
+01/07/2023 22:59:37.515	[D] PacketManager::Update                             Begin
+01/07/2023 22:59:37.515	[D] PacketManager::Update                             Hooked function: DecryptBuffer
+01/07/2023 22:59:37.515	[D] PacketManager::Update                             Hooked function: EncryptBuffer
+01/07/2023 22:59:37.515	[D] PacketManager::Update                             End
+01/07/2023 22:59:37.515	[D] PluginManager::Update                             Begin
+01/07/2023 22:59:37.515	[D] PluginManager::Release                            Begin
+01/07/2023 22:59:37.515	[D] PluginManager::Release                            End
+01/07/2023 22:59:37.516	[D] PluginManager::Update                             End
+01/07/2023 22:59:37.516	[D] AshitaCore::GameLoaded                            GameLoaded end.
+01/07/2023 22:59:37.557	[D] Mine_DirectInput8Create                           Wrapping and returning a new IDirectInput8 interface.
+01/07/2023 22:59:37.570	[D] newIDirectInput8A::CreateDevice                   Creating new DirectInput device: 6F1D2B61-D5A0-11CF-BFC7-444553540000
+01/07/2023 22:59:37.570	[D] newIDirectInput8A::CreateDevice                   Wrapping a keyboard device.
+01/07/2023 22:59:37.574	[D] InputManager::SetKeyboard                         Keyboard set to valid device; executing startup script..
+01/07/2023 22:59:37.576	[D] newIDirectInput8A::CreateDevice                   Creating new DirectInput device: 6F1D2B60-D5A0-11CF-BFC7-444553540000
+01/07/2023 22:59:37.576	[D] newIDirectInput8A::CreateDevice                   Wrapping a mouse device.
+01/07/2023 22:59:37.576	[D] InputManager::SetMouse                            Mouse set to valid device.
+01/07/2023 22:59:37.591	[D] Addon::Load                                       Loading addon. (1) - dynamic_entity_renamer
+01/07/2023 22:59:37.594	[D] Addon                                             Addon load. (1) - dynamic_entity_renamer
+01/07/2023 22:59:37.594	[D] Addon                                             Addon load. (2) - dynamic_entity_renamer
+01/07/2023 22:59:37.594	[D] Addon                                             Addon load. (3) - dynamic_entity_renamer
+01/07/2023 22:59:37.594	[D] Addon::Load                                       Loading addon. (1) - allmaps
+01/07/2023 22:59:37.597	[D] Addon                                             Addon load. (1) - allmaps
+01/07/2023 22:59:37.597	[D] Addon                                             Addon load. (2) - allmaps
+01/07/2023 22:59:37.621	[D] Addon                                             Addon load. (3) - allmaps
+01/07/2023 22:59:37.621	[D] Addon::Load                                       Loading addon. (2) - allmaps
+01/07/2023 22:59:37.621	[D] Addon::Load                                       Loading addon. (1) - aspect
+01/07/2023 22:59:37.623	[D] Addon                                             Addon load. (1) - aspect
+01/07/2023 22:59:37.624	[D] Addon                                             Addon load. (2) - aspect
+01/07/2023 22:59:37.634	[D] Addon                                             Addon load. (3) - aspect
+01/07/2023 22:59:37.634	[D] Addon::Load                                       Loading addon. (2) - aspect
+01/07/2023 22:59:37.634	[D] Addon::Load                                       Loading addon. (1) - Checker
+01/07/2023 22:59:37.636	[D] Addon                                             Addon load. (1) - checker
+01/07/2023 22:59:37.637	[D] Addon                                             Addon load. (2) - checker
+01/07/2023 22:59:37.643	[D] Addon                                             Addon load. (3) - checker
+01/07/2023 22:59:37.643	[D] Addon::Load                                       Loading addon. (2) - Checker
+01/07/2023 22:59:37.643	[D] Addon::Load                                       Loading addon. (1) - config
+01/07/2023 22:59:37.645	[D] Addon                                             Addon load. (1) - config
+01/07/2023 22:59:37.646	[D] Addon                                             Addon load. (2) - config
+01/07/2023 22:59:37.646	[D] Addon::Load                                       Loading addon. (1) - distance
+01/07/2023 22:59:37.648	[D] Addon                                             Addon load. (1) - distance
+01/07/2023 22:59:37.648	[D] Addon                                             Addon load. (2) - distance
+01/07/2023 22:59:37.670	[D] Addon                                             Addon load. (3) - distance
+01/07/2023 22:59:37.671	[D] Addon::Load                                       Loading addon. (2) - distance
+01/07/2023 22:59:37.671	[D] Addon::Load                                       Loading addon. (1) - drawdistance
+01/07/2023 22:59:37.673	[D] Addon                                             Addon load. (1) - drawdistance
+01/07/2023 22:59:37.673	[D] Addon                                             Addon load. (2) - drawdistance
+01/07/2023 22:59:37.681	[D] Addon                                             Addon load. (3) - drawdistance
+01/07/2023 22:59:37.687	[D] Addon::Load                                       Loading addon. (2) - drawdistance
+01/07/2023 22:59:37.687	[D] Addon::Load                                       Loading addon. (1) - enternity
+01/07/2023 22:59:37.689	[D] Addon                                             Addon load. (1) - enternity
+01/07/2023 22:59:37.689	[D] Addon                                             Addon load. (2) - enternity
+01/07/2023 22:59:37.711	[D] Addon                                             Addon load. (3) - enternity
+01/07/2023 22:59:37.712	[D] Addon::Load                                       Loading addon. (2) - enternity
+01/07/2023 22:59:37.712	[D] Addon::Load                                       Loading addon. (1) - filterless
+01/07/2023 22:59:37.714	[D] Addon                                             Addon load. (1) - filterless
+01/07/2023 22:59:37.714	[D] Addon                                             Addon load. (2) - filterless
+01/07/2023 22:59:37.722	[D] Addon                                             Addon load. (3) - filterless
+01/07/2023 22:59:37.729	[D] Addon::Load                                       Loading addon. (2) - filterless
+01/07/2023 22:59:37.729	[D] Addon::Load                                       Loading addon. (1) - fps
+01/07/2023 22:59:37.732	[D] Addon                                             Addon load. (1) - fps
+01/07/2023 22:59:37.732	[D] Addon                                             Addon load. (2) - fps
+01/07/2023 22:59:37.739	[D] Addon                                             Addon load. (3) - fps
+01/07/2023 22:59:37.739	[D] Addon::Load                                       Loading addon. (2) - fps
+01/07/2023 22:59:37.739	[D] Addon::Load                                       Loading addon. (1) - hideconsole
+01/07/2023 22:59:37.741	[D] Addon                                             Addon load. (1) - hideconsole
+01/07/2023 22:59:37.741	[D] Addon                                             Addon load. (2) - hideconsole
+01/07/2023 22:59:37.748	[D] Addon                                             Addon load. (3) - hideconsole
+01/07/2023 22:59:37.748	[D] Addon::Load                                       Loading addon. (2) - hideconsole
+01/07/2023 22:59:37.748	[D] Addon::Load                                       Loading addon. (1) - ibar
+01/07/2023 22:59:37.750	[D] Addon                                             Addon load. (1) - ibar
+01/07/2023 22:59:37.750	[D] Addon::Load                                       Loading addon. (1) - instantah
+01/07/2023 22:59:37.753	[D] Addon                                             Addon load. (1) - instantah
+01/07/2023 22:59:37.753	[D] Addon                                             Addon load. (2) - instantah
+01/07/2023 22:59:37.760	[D] Addon                                             Addon load. (3) - instantah
+01/07/2023 22:59:37.765	[D] Addon::Load                                       Loading addon. (2) - instantah
+01/07/2023 22:59:37.765	[D] Addon::Load                                       Loading addon. (1) - links
+01/07/2023 22:59:37.768	[D] Addon                                             Addon load. (1) - links
+01/07/2023 22:59:37.769	[D] Addon                                             Addon load. (2) - links
+01/07/2023 22:59:37.776	[D] Addon                                             Addon load. (3) - links
+01/07/2023 22:59:37.776	[D] Addon::Load                                       Loading addon. (2) - links
+01/07/2023 22:59:37.776	[D] Addon::Load                                       Loading addon. (1) - macrofix
+01/07/2023 22:59:37.779	[D] Addon                                             Addon load. (1) - macrofix
+01/07/2023 22:59:37.780	[D] Addon                                             Addon load. (2) - macrofix
+01/07/2023 22:59:37.788	[D] Addon                                             Addon load. (3) - macrofix
+01/07/2023 22:59:37.819	[D] Addon::Load                                       Loading addon. (2) - macrofix
+01/07/2023 22:59:37.819	[D] Addon::Load                                       Loading addon. (1) - recast
+01/07/2023 22:59:37.821	[D] Addon                                             Addon load. (1) - recast
+01/07/2023 22:59:37.822	[D] Addon                                             Addon load. (2) - recast
+01/07/2023 22:59:37.842	[D] Addon                                             Addon load. (3) - recast
+01/07/2023 22:59:37.842	[D] Addon::Load                                       Loading addon. (2) - recast
+01/07/2023 22:59:37.842	[D] Addon::Load                                       Loading addon. (1) - status
+01/07/2023 22:59:37.845	[D] Addon                                             Addon load. (1) - status
+01/07/2023 22:59:37.845	[D] Addon::Load                                       Loading addon. (1) - stfu
+01/07/2023 22:59:37.847	[D] Addon                                             Addon load. (1) - stfu
+01/07/2023 22:59:37.847	[D] Addon                                             Addon load. (2) - stfu
+01/07/2023 22:59:37.854	[D] Addon                                             Addon load. (3) - stfu
+01/07/2023 22:59:37.854	[D] Addon::Load                                       Loading addon. (2) - stfu
+01/07/2023 22:59:37.854	[D] Addon::Load                                       Loading addon. (1) - timers
+01/07/2023 22:59:37.856	[D] Addon                                             Addon load. (1) - timers
+01/07/2023 22:59:37.857	[D] Addon                                             Addon load. (2) - timers
+01/07/2023 22:59:37.857	[D] Addon::Load                                       Loading addon. (1) - tparty
+01/07/2023 22:59:37.860	[D] Addon                                             Addon load. (1) - tparty
+01/07/2023 22:59:37.860	[D] Addon                                             Addon load. (2) - tparty
+01/07/2023 22:59:37.881	[D] Addon                                             Addon load. (3) - tparty
+01/07/2023 22:59:37.881	[D] Addon::Load                                       Loading addon. (2) - tparty
+01/07/2023 23:00:01.155	[D] PacketManager::HandleIncomingPacket               Log file path has been patched!
