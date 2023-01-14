@@ -17,7 +17,7 @@
   <setting name="background_y">4960</setting>
   <setting name="menu_x">5120</setting>
   <setting name="menu_y">1440</setting>
-  <setting name="boot_file">C:\Ashita--main\pol.exe</setting>
+  <setting name="boot_file">C:\Ashita--main\ffxi-bootmod\pol.exe</setting>
   <setting name="boot_command">--server FFclassic.mooo.com</setting>
   <setting name="startup_script">Default.txt</setting>
   <setting name="d3d_presentparams_buffercount">1</setting>
